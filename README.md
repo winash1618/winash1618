@@ -12,7 +12,7 @@
 
 ### Important Repository
 
-💾 365 Days of Computer Vision - [🔗](https://github.com/winash1618/Born2beRoot)
+💾 Born2beRoot - [🔗](https://github.com/winash1618/Born2beRoot)
 
 ---
 
