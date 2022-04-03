@@ -4,7 +4,7 @@
   
   - 👯 I’m currently a student at 42 Abu Dhabi.
   
-  - 🥅 2021 Goals: Explore the more and more research of c programming, web development, machine learning etc.
+  - 🥅 2021 Goals: Explore and research more on c programming, web development, machine learning etc.
 
   - ⚡ Fun fact: I love to code.
   
