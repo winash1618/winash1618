@@ -1,16 +1,19 @@
-### Hi there 👋
+- ### Hi there, I'm Asharaf k v👋
 
-<!--
-**winash1618/winash1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🌱 I’m currently Learning c programming😎.
+  
+  - 👯 I’m currently a student at 42 Abu Dhabi.
+  
+  - 🥅 2021 Goals: Explore the more and more research of c programming, web development, machine learning etc.
 
-Here are some ideas to get you started:
+  - ⚡ Fun fact: I love to code.
+  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winash1618&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Important Repository
+
+💾 365 Days of Computer Vision - [🔗](https://github.com/winash1618/Born2beRoot)
+
+---
+
+***Thanks for visit my profile.***
