@@ -1,4 +1,4 @@
-- ### Hi there, I'm Asharaf k v👋
+### Hi there, I'm Asharaf k v👋
 
   - 🌱 I’m currently Learning c programming😎.
   
