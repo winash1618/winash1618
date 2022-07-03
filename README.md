@@ -1,6 +1,6 @@
 ### Hi there, I'm Asharaf k v👋
 
-  - 🌱 I’m currently Learning c programming😎.
+  - 🌱 I’m currently Learning c/c++ programming😎.
   
   - 👯 I’m currently a student at 42 Abu Dhabi.
   
