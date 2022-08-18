@@ -12,7 +12,7 @@
 
 ### Important Repository
 
-💾 Born2beRoot - [🔗](https://github.com/winash1618/Born2beRoot)
+💾 42 Project : Minishell - [🔗](https://github.com/winash1618/Minishell_Team)
 
 ---
 
