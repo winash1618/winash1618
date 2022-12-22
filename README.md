@@ -8,11 +8,21 @@
 
   - ⚡ Fun fact: I love to code.
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winash1618&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winash1618&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Curent cursus
+
+[![mkaruvan's 42 stats](https://badge42.vercel.app/api/v2/clbza7w7b00110fl7w15e2x3y/stats?cursusId=21&coalitionId=155)](https://github.com/JaeSeoKim/badge42)
+
+#### Github stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winash1618&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Important Repository
 
-💾 42 Project : Minishell - [🔗](https://github.com/winash1618/Minishell_Team)
+💾 42 Project : Minishell - [🔗](https://github.com/winash1618/ft_containers)
 
 ---
 
