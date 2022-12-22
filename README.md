@@ -22,7 +22,7 @@
 
 ### Important Repository
 
-💾 42 Project : Minishell - [🔗](https://github.com/winash1618/ft_containers)
+💾 42 Project : ft_containers - [🔗](https://github.com/winash1618/ft_containers)
 
 ---
 
