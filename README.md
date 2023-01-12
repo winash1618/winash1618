@@ -17,8 +17,11 @@
 
 #### Github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winash1618&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Winash1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=winash1618&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Codwars stats
+
+![Winash1618's Codewars Profile](https://www.codewars.com/users/winash1618/badges/large)
 
 ### Important Repository
 
