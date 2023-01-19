@@ -4,7 +4,7 @@
   
   - 👯 I’m currently a student at 42 Abu Dhabi.
   
-  - 🥅 2022 Goals: Explore and research more on C/C++ programming, AI, Robotics, Mathematics, Machine learning etc.
+  - 🥅 2023 Goals: Explore and research more on C/C++, Python, AI, Robotics, Mathematics, Machine learning etc.
 
   - ⚡ Fun fact: I love to code.
   
