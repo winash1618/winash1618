@@ -2,7 +2,7 @@
 
   - 🌱 I’m currently Learning c/c++ programming😎.
   
-  - 👯 I’m currently a student at 42 Abu Dhabi.
+  - 💻 I’m currently a student at 42 Abu Dhabi.
   
   - 🥅 2023 Goals: Explore and research more on C/C++, Python, AI, Robotics, Mathematics, Machine learning etc.
 
