@@ -9,17 +9,21 @@
   - ⚡ Fun fact: I love to code.
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winash1618&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Top Languages
 
-#### Curent cursus
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winash1618&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mkaruvan's 42 stats](https://badge42.vercel.app/api/v2/clbza7w7b00110fl7w15e2x3y/stats?cursusId=21&coalitionId=155)](https://github.com/JaeSeoKim/badge42)
+## Current Cursus
 
-#### Github stats
+[![42 Stats](https://badge42.vercel.app/api/v2/clbza7w7b00110fl7w15e2x3y/stats?cursusId=21&coalitionId=155)](https://github.com/JaeSeoKim/badge42)
 
-[![Winash1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=winash1618&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winash1618&theme=tokyonight&mode=weekly"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winash1618&show_icons=true&theme=tokyonight)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=winash1618&theme=tokyonight)
 
 #### Codwars stats
 
